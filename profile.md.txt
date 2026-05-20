@@ -14,3 +14,4 @@ I hope to improve my GitHub skills and understand pull requests and collaborativ
 
 ## Fun Fact
 I enjoy experimenting with app and website UI designs in my free time.
+- Interested in frontend development
