@@ -1,0 +1,17 @@
+# My Profile
+
+## Name
+Nagraj
+
+## Interests
+- UI/UX Design
+- Coding
+- Figma Designing
+- Learning Technology
+
+## What I Hope to Learn
+I hope to improve my GitHub skills and understand pull requests and collaborative development better.
+
+## Fun Fact
+I enjoy experimenting with app and website UI designs in my free time.
+- Interested in frontend development
